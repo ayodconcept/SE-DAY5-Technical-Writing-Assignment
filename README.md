@@ -16,6 +16,7 @@ Adjust the complexity: Use technical terms for experts, but simpler explanations
 Use analogies: Explain technical concepts using real-world comparisons.
 Provide multiple formats: Include text, images, and code examples to cater to different learning styles.
 Create layered content: Start with a high-level summary, then provide deeper technical details.
+
 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 Conduct surveys or feedback sessions before writing.
 Analyze previous interactions (e.g., FAQs, customer support queries).
