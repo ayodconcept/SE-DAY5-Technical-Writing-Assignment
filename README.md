@@ -2,7 +2,6 @@
 Technical-Writing Assignment
 
 
-
 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 Understanding your audience helps you adjust the complexity of your language.
 
@@ -62,7 +61,6 @@ Be descriptive: Headings should summarize the section.
 Use hierarchy: H1 for main titles, H2 for sections, H3 for subsections.
 Keep it concise: Avoid overly long headings.
 Make it scannable: Users should understand content at a glance.
-
 11. What should be included in the introduction of a README to immediately inform users about what the product does?
 Project Name
 Brief description of its purpose.
